@@ -1,0 +1,45 @@
+ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  
+}
+
+li {
+  float: left;
+  display: inline;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #4CAF50;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+body {
+    background-image: url("../img/fundo-branco-conceito-geometrico-de-medico_1017-15462.jpg");
+}
+article{
+    margin-bottom: 6%;
+    margin-right: 6%;
+    margin-left: 6%;
+    padding: 2% 6% 6% 6%;
+    background-color: #ffffff;
+    box-shadow: 1px 4px 4px 4px #aaaaaa;
+    border-radius: 0px 0px 20px 20px;
+}
+text{
+    font-size: 40px;
+}

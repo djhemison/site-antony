@@ -1,0 +1,16 @@
+article{
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    background-color: rgba(217,190,224, 0.9);
+}
+p{
+ text-align: justify; 
+ text-indent: 35px;   
+}
+body{
+    background-image: url("../img/background.jpg");
+    
+}
